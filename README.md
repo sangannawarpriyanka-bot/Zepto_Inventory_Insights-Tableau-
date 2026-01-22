@@ -77,16 +77,24 @@ The dashboard helps stakeholders **identify out-of-stock risks, optimize pricing
 
 <img width="760" height="374" alt="Inventory Overview" src="https://github.com/user-attachments/assets/674ce1e5-89d2-4275-b1c2-53eaa16af3ef" />
 
+---
+
 # Pricing & Discount Analysis:
 
 <img width="803" height="374" alt="Pricing   Discount Analysis" src="https://github.com/user-attachments/assets/977262c0-3e4d-4699-acde-8a00f8358871" />
+
+---
 
 ## Storytelling:
 
 <img width="830" height="371" alt="Inventory_Overview_story" src="https://github.com/user-attachments/assets/01d9cc20-58ac-4d4e-a5d7-55ea08be2366" />
 
+---
+
 <img width="811" height="369" alt="Category based pricing   Discount Strategy" src="https://github.com/user-attachments/assets/fc3bf826-2732-42ac-b424-ff679646812d" />
+
+---
 
 <img width="820" height="368" alt="Category comparison Based on weight   volume" src="https://github.com/user-attachments/assets/1ea66637-17b7-4ea7-b26b-201813c01625" />
 
-
+---
